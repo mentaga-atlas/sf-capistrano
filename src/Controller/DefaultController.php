@@ -14,7 +14,7 @@ use Symfony\Component\Routing\Annotation\Route;
 class DefaultController
 {
     /**
-     * @Route("/test")
+     * @Route("/")
      */
     public function index()
     {
